@@ -8,5 +8,7 @@
 
 | Feature | Command| SimpleTowns (FREE) | AdvancedTowns (PAID) |
 |---|---|---|---|
-| Town Home | `/town home` | ✅ | ✅
-| Town| '/town visit' | ✅ | ✅
+| Town home | `/town home` | ✅ | ✅ |
+| Town visit | '/town visit' | ✅ | ✅ |
+| Town description | '/town setdescription' | ✅ | ✅ |
+| Town icon | '/town seticon' | ✴️ | ✅|
