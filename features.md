@@ -9,12 +9,12 @@
 | Feature | Command| SimpleTowns (FREE) | AdvancedTowns (PAID) |
 |---|---|---|---|
 | town home | `/town home` | ✅ | ✅ |
-| town visit | '/town visit' | ✅ | ✅ |
-| town description | '/town setdescription' | ✅ | ✅ |
-| town icon | '/town seticon' | ✴️ | ✅|
-| town warps | ✅ | ✅ |
-| town homes | ✅ | ✅
-| town MODT | ❌ | ✅ |
+| town visit | `/town visit, /town warp` | ✅ | ✅ |
+| town description | '/town setdescription` | ✅ | ✅ |
+| town icon | `/town seticon, /town icon` | ✴️ | ✅|
+| town warps | `/setwarp, /warp, /delwarp` | ✅ | ✅ |
+| town homes | `/sethome, /home, /delhome` | ✅ | ✅
+| town MODT | `/town setmodt, /town modt` | ❌ | ✅ |
 | town boards | ✴️ | ✅ |
 | town leaderboards | ✴️ | ✅ |
 | town types| ❌ | ✅ |
