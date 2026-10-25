@@ -40,11 +40,13 @@
 #### SIMPLE<br>
 **Displays:** FancyHolograms<br>
 **Placeholder:** Placeholder API<br>
+**Economy:** Vault<br>
 
 #### ADVANCED<br>
 **Displays:** FancyHolograms, DecentHolograms, JHolograms, HeroHolograms<br>
 **Placeholder:** Placeholder API, Placeholder API Paper<br>
-
+**Economy:** Vault, VaultUnlocked
+> Optionally with an integrated /pay command, can by provided by activating in config.<br>
 
 
 
