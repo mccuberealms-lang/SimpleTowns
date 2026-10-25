@@ -8,7 +8,7 @@
 🔧 > in development<br>
 
 
-| Feature | Command| SimpleTowns (FREE, 0.00€) | AdvancedTowns (PAID, 12,99€) |
+| Feature | Command| SimpleTowns<br>(FREE, 0.00€) | AdvancedTowns<br>(PAID, 12,99€) |
 |---|---|---|---|
 | town creation | `/town create, /town c` | ✅ | ✅ |
 | town invitation | `/town invite` | ✅ | ✅ |
