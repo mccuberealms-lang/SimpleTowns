@@ -3,7 +3,7 @@
 ✅ > fully available
 ✴️ > partially available or limited
 ❌ > not available
-⚙️ > in development
+🔧 > in development
 
 
 | Feature | Command| SimpleTowns (FREE) | AdvancedTowns (PAID) |
@@ -15,19 +15,19 @@
 | town warps | `/setwarp, /warp, /delwarp` | ✅ | ✅ |
 | town homes | `/sethome, /home, /delhome` | ✅ | ✅
 | town MODT | `/town setmodt, /town modt` | ❌ | ✅ |
-| town boards | ✴️ | ✅ |
-| town leaderboards | ✴️ | ✅ |
-| town types| ❌ | ✅ |
-| town categories| ❌ | ✅ |
-| town browser| ✴️ | ✅ |
-| town plots | ❌ | ✅ |
-| visible town borders | ❌ | ✅ |
-| trusted visitors | ✅ | ✅ |
-| town roles | ✴️ | ✅|
-| custom town roles| ❌ | ✅ |
-| town events| ❌ | ✅ |
-| town gui | ✴️ | ✅ |
-| town bank | ✅ | ✅ |
+| town boards | `/town board` | ✴️ | ✅ |
+| town leaderboards | `/town leaderboard` | ✴️ | ✅ |
+| town types | `/town settype` | ❌ | ✅ |
+| town categories | `/town category` | ❌ | ✅ |
+| town browser | `/town list, /town browse` | ✴️ | ✅ |
+| town plots | `/town me, /town plot` | ❌ | ✅ |
+| visible town borders | `/town borders` | ❌ | ✅ |
+| trusted visitors | `/town trust` | ✅ | ✅ |
+| town roles | `/town manage, /town members` | ✴️ | ✅|
+| custom town roles | `/town manage, /town members` | ❌ | ✅ |
+| town events | `/town events` | ❌ | ✅ |
+| town gui | `/town gui` | ✴️ | ✅ |
+| town bank | `/town bank, /town widthraw, /town deposit` | ✅ | ✅ |
 
 ## Integrations
 
