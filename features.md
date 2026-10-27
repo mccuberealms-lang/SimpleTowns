@@ -15,7 +15,7 @@
 | town leaving | `/town leave` | ✅ | ✅ |
 | 🔧 town home | `/town home` | ✅ | ✅ |
 | 🔧 town visit | `/town visit, /town warp` | ✅ | ✅ |
-| 🔧 town description | '/town setdescription` | ✅ | ✅ |
+| 🔧 town description | /town setdescription` | ✅ | ✅ |
 | 🔧 town warps | `/setwarp, /warp, /delwarp` | ✅ | ✅ |
 | 🔧 town homes | `/sethome, /home, /delhome` | ✅ | ✅ |
 | 🔧 trusted visitors | `/town trust` | ✅ | ✅ |
